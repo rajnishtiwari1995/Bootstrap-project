@@ -1,0 +1,23 @@
+div.box1{
+    display: flex;
+    margin-top: 20px;
+    justify-content: center;
+    align-items: center;
+}
+div.box2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+div.box3{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row-reverse;
+}
+div.box4{
+    margin: 20px;
+}
+img.img{
+    height: 500px;
+}

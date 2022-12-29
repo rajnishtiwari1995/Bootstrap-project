@@ -1,0 +1,20 @@
+p.float-right{
+    display: inline-block;
+    float: right;
+}
+a.search{
+    text-decoration: none;
+    color: white;
+}
+a.search1{
+    text-decoration: none;
+    color: white;
+}
+a.search2{
+    text-decoration: none;
+    color: blue;
+}
+a.contact{
+    text-decoration: none;
+    color: white;
+}
